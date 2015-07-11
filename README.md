@@ -1,6 +1,8 @@
 # Hapi.js Template
 
 [![Build Status](https://travis-ci.org/tribou/template-hapi.svg)](https://travis-ci.org/tribou/template-hapi)
+[![Dependency Status](https://david-dm.org/tribou/template-hapi.svg)](https://david-dm.org/tribou/template-hapi)
+[![devDependency Status](https://david-dm.org/tribou/template-hapi/dev-status.svg)](https://david-dm.org/tribou/template-hapi#info=devDependencies)
 
 Starting template for Hapi.js apps
 
@@ -9,6 +11,7 @@ Starting template for Hapi.js apps
 ```
 git clone https://github.com/tribou/template-hapi.git
 cd template-hapi
+npm install
 npm start
 ```
 
